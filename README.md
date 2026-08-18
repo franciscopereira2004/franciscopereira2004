@@ -11,27 +11,27 @@
 <br />
 
 <a href="https://www.marsshot.eu">
-  <img src="https://img.shields.io/badge/Mars_Shot-Developer-0F172A?style=for-the-badge&logo=rocket&logoColor=38BDF8" alt="Mars Shot" />
+  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/chip-mars.svg" alt="Mars Shot" />
 </a>
 &nbsp;
 <a href="https://www.ipcb.pt">
-  <img src="https://img.shields.io/badge/IPCB--ESTCB-Computer_Engineering-0F172A?style=for-the-badge&logo=bookstack&logoColor=38BDF8" alt="IPCB-ESTCB" />
+  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/chip-ipcb.svg" alt="IPCB-ESTCB" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Castelo_Branco-Portugal-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Castelo Branco, Portugal" />
+<img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/chip-location.svg" alt="Castelo Branco, Portugal" />
 
 <br /><br />
 
 <a href="https://www.linkedin.com/in/pfrancisco2004/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-linkedin.svg" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/franciscopereira2004">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-github.svg" alt="GitHub" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:franciscopera2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-email.svg" alt="Email" />
 </a>
 
 </div>
@@ -66,7 +66,7 @@ I work mostly in **TypeScript**, across frontend and backend. I like products wi
 <br />
 
 <a href="mailto:franciscopera2004@gmail.com">
-  <img src="https://img.shields.io/badge/Get_in_touch-38BDF8?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Get in touch" />
+  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-contact.svg" alt="Get in touch" />
 </a>
 
 </div>
