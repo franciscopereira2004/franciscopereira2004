@@ -5,38 +5,20 @@
 <br />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=TypeScript+%7C+React+%7C+Node.js;Web+products%2C+dashboards+%26+streaming" alt="Full-stack Developer" />
-
-<br />
-
-<a href="https://www.marsshot.eu">
-  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/chip-mars.svg" alt="Mars Shot" />
-</a>
-&nbsp;
-<a href="https://www.ipcb.pt">
-  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/chip-ipcb.svg" alt="IPCB-ESTCB" />
-</a>
-&nbsp;
-<img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/chip-location.svg" alt="Castelo Branco, Portugal" />
-
-<br /><br />
-
-<a href="https://www.linkedin.com/in/pfrancisco2004/">
-  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-linkedin.svg" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/franciscopereira2004">
-  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-github.svg" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:franciscopera2004@gmail.com">
-  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-email.svg" alt="Email" />
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=TypeScript+%7C+React+%7C+Node.js;Web+products%2C+dashboards+%26+streaming" alt="Full-stack Developer" />
 </div>
 
-<br />
+<p align="center">
+  <a href="https://www.marsshot.eu"><img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/chip-mars.svg?v=2" alt="Mars Shot" /></a>
+  <a href="https://www.ipcb.pt"><img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/chip-ipcb.svg?v=2" alt="IPCB-ESTCB" /></a>
+  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/chip-location.svg?v=2" alt="Castelo Branco, Portugal" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pfrancisco2004/"><img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-linkedin.svg?v=2" alt="LinkedIn" /></a>
+  <a href="https://github.com/franciscopereira2004"><img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-github.svg?v=2" alt="GitHub" /></a>
+  <a href="mailto:franciscopera2004@gmail.com"><img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-email.svg?v=2" alt="Email" /></a>
+</p>
 
 ---
 
@@ -59,17 +41,12 @@ I work mostly in **TypeScript**, across frontend and backend. I like products wi
 
 ---
 
-<div align="center">
-
-**Want to talk about a project or an idea?**
-
-<br />
-
-<a href="mailto:franciscopera2004@gmail.com">
-  <img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-contact.svg" alt="Get in touch" />
-</a>
-
-</div>
+<p align="center">
+  <strong>Want to talk about a project or an idea?</strong>
+</p>
+<p align="center">
+  <a href="mailto:franciscopera2004@gmail.com"><img src="https://raw.githubusercontent.com/franciscopereira2004/franciscopereira2004/master/assets/btn-contact.svg?v=2" alt="Get in touch" /></a>
+</p>
 
 <br />
 
