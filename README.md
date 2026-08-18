@@ -50,21 +50,6 @@ Based in Castelo Branco, Portugal.
 | Data & cloud | Azure Cosmos DB, Azure Blob, Cloudflare |
 | Other | Java, Discord bots, Twitch overlays |
 
-### Featured
-
-**[UniNest](https://github.com/franciscopereira2004/uninest-housing-hub)** — student housing marketplace.
-
-Students find rooms and apartments near campus; landlords publish listings with moderation. Real-time messaging, favorites, reports, and an admin panel.
-
-`React` `Fastify` `TypeScript` `Azure`
-
-### GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=franciscopereira2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscopereira2004&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top languages" />
-</div>
-
 ---
 
 <div align="center">
