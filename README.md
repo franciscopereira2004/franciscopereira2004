@@ -1,16 +1,26 @@
-# Francisco Pereira
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:38BDF8&height=180&section=header&text=Francisco%20Pereira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=60&descSize=18" alt="Francisco Pereira" />
+</div>
+
+<br />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Full-stack+Developer;TypeScript+%7C+React+%7C+Node.js" alt="Full-stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=TypeScript+%7C+React+%7C+Node.js;Web+products%2C+dashboards+%26+streaming" alt="Full-stack Developer" />
 
 <br />
 
-**Full-stack developer** at [Mars Shot](https://www.marsshot.eu) · Computer Engineering student at **IPCB-ESTCB**.
+<a href="https://www.marsshot.eu">
+  <img src="https://img.shields.io/badge/Mars_Shot-Developer-0F172A?style=for-the-badge&logo=rocket&logoColor=38BDF8" alt="Mars Shot" />
+</a>
+&nbsp;
+<a href="https://www.ipcb.pt">
+  <img src="https://img.shields.io/badge/IPCB--ESTCB-Computer_Engineering-0F172A?style=for-the-badge&logo=bookstack&logoColor=38BDF8" alt="IPCB-ESTCB" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Castelo_Branco-Portugal-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Castelo Branco, Portugal" />
 
-Based in Castelo Branco, Portugal.
-
-<br />
+<br /><br />
 
 <a href="https://www.linkedin.com/in/pfrancisco2004/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,40 +36,43 @@ Based in Castelo Branco, Portugal.
 
 </div>
 
+<br />
+
 ---
 
 ### About me
 
-- Full-stack developer at **[Mars Shot](https://www.marsshot.eu)**, building web products, dashboards, and streaming experiences
-- Computer Engineering student at **IPCB-ESTCB** (Polytechnic Institute of Castelo Branco)
-- I work mostly in **TypeScript** — frontend and backend
-- I like products with both polish and structure: clean UI, solid APIs, real-time features
-- I've been building **streaming overlays and platforms**, marketplaces, and dashboards
-- Based in **Castelo Branco, Portugal**
+Full-stack developer at **[Mars Shot](https://www.marsshot.eu)** and Computer Engineering student at **IPCB-ESTCB**, based in Castelo Branco, Portugal.
+
+I work mostly in **TypeScript**, across frontend and backend. I like products with both polish and structure — clean UI, solid APIs, and real-time features. Lately that has meant streaming overlays and platforms, marketplaces, and dashboards.
+
+---
 
 ### Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,vite,tailwind,html,css,java,git,github,azure,discord,cloudflare" alt="Tech stack" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,vite,tailwind,html,css" alt="Frontend" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=java,git,github,azure,discord,cloudflare" alt="Backend and tools" />
+</div>
 
-| Area | Tools |
-| --- | --- |
-| Frontend | React, Vite, TypeScript, Tailwind, shadcn/ui |
-| Backend | Node.js, Fastify, JWT, WebSockets |
-| Data & cloud | Azure Cosmos DB, Azure Blob, Cloudflare |
-| Other | Java, Discord bots, Twitch overlays |
+<br />
 
 ---
 
 <div align="center">
 
-Want to talk about a project or an idea?
+**Want to talk about a project or an idea?**
 
 <br />
 
 <a href="mailto:franciscopera2004@gmail.com">
-  <img src="https://img.shields.io/badge/Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" />
+  <img src="https://img.shields.io/badge/Get_in_touch-38BDF8?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Get in touch" />
 </a>
 
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A5F,100:0F172A&height=120&section=footer" alt="" />
 </div>
