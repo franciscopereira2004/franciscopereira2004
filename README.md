@@ -1,3 +1,5 @@
+# Francisco Pereira
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Olá,+eu+sou+o+Francisco+Pereira;Full-stack+Developer;TypeScript+•+React+•+Node.js" alt="Typing SVG" />
