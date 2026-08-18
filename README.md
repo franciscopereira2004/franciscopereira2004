@@ -54,6 +54,12 @@ Based in Castelo Branco, Portugal.
 
 <div align="center">
 
-Want to talk about a project or an idea? Get in touch.
+Want to talk about a project or an idea?
+
+<br />
+
+<a href="mailto:franciscopera2004@gmail.com">
+  <img src="https://img.shields.io/badge/Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" />
+</a>
 
 </div>
