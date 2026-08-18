@@ -1,12 +1,14 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:38BDF8&height=180&section=header&text=Francisco%20Pereira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=60&descSize=18" alt="Francisco Pereira" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:38BDF8&height=140&section=header" alt="" />
 </div>
 
 <br />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=TypeScript+%7C+React+%7C+Node.js;Web+products%2C+dashboards+%26+streaming" alt="Full-stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=32&duration=2500&pause=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=48&repeat=false&lines=Francisco+Pereira" alt="Francisco Pereira" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&size=20&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=32&lines=TypeScript+%7C+React+%7C+Node.js;Web+products%2C+dashboards+%26+streaming" alt="Full-stack Developer" />
 
 <br />
 
