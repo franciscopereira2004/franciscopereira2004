@@ -8,7 +8,7 @@
 
 **Full-stack developer** at [Mars Shot](https://www.marsshot.eu) · Computer Engineering student at **IPCB-ESTCB**.
 
-Based in Castelo Branco, Portugal. Open to new opportunities.
+Based in Castelo Branco, Portugal.
 
 <br />
 
@@ -69,6 +69,6 @@ Students find rooms and apartments near campus; landlords publish listings with 
 
 <div align="center">
 
-Want to talk about a project, an idea, or an opportunity? Get in touch.
+Want to talk about a project or an idea? Get in touch.
 
 </div>
