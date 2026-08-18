@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi,+I'm+Francisco+Pereira;Full-stack+Developer;TypeScript+•+React+•+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Full-stack+Developer;TypeScript+%7C+React+%7C+Node.js" alt="Full-stack Developer" />
 
 <br />
 
-**Full-stack developer** building web products, dashboards, and streaming experiences.
+**Full-stack developer** at [Mars Shot](https://www.marsshot.eu) · Computer Engineering student at **IPCB-ESTCB**.
 
-Open to new opportunities.
+Based in Castelo Branco, Portugal. Open to new opportunities.
 
 <br />
 
@@ -30,10 +30,12 @@ Open to new opportunities.
 
 ### About me
 
+- Full-stack developer at **[Mars Shot](https://www.marsshot.eu)**, building web products, dashboards, and streaming experiences
+- Computer Engineering student at **IPCB-ESTCB** (Polytechnic Institute of Castelo Branco)
 - I work mostly in **TypeScript** — frontend and backend
 - I like products with both polish and structure: clean UI, solid APIs, real-time features
 - I've been building **streaming overlays and platforms**, marketplaces, and dashboards
-- Based in **Portugal** · [Mars Shot](https://www.marsshot.eu)
+- Based in **Castelo Branco, Portugal**
 
 ### Stack
 
