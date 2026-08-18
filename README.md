@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Olá,+eu+sou+o+Francisco+Pereira;Full-stack+Developer;TypeScript+•+React+•+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi,+I'm+Francisco+Pereira;Full-stack+Developer;TypeScript+•+React+•+Node.js" alt="Typing SVG" />
 
 <br />
 
-**Full-stack developer** a construir produtos web, dashboards e experiências para streaming.
+**Full-stack developer** building web products, dashboards, and streaming experiences.
 
-Aberto a novas oportunidades.
+Open to new opportunities.
 
 <br />
 
@@ -28,12 +28,12 @@ Aberto a novas oportunidades.
 
 ---
 
-### Sobre mim
+### About me
 
-- Trabalho sobretudo em **TypeScript** — frontend e backend
-- Gosto de produtos com cara e com sistema: UI polida, APIs sólidas, tempo real
-- Tenho construído **overlays e plataformas para streaming**, marketplaces e dashboards
-- Baseado em **Portugal** · [Mars Shot](https://www.marsshot.eu)
+- I work mostly in **TypeScript** — frontend and backend
+- I like products with both polish and structure: clean UI, solid APIs, real-time features
+- I've been building **streaming overlays and platforms**, marketplaces, and dashboards
+- Based in **Portugal** · [Mars Shot](https://www.marsshot.eu)
 
 ### Stack
 
@@ -41,18 +41,18 @@ Aberto a novas oportunidades.
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,vite,tailwind,html,css,java,git,github,azure,discord,cloudflare" alt="Tech stack" />
 </p>
 
-| Área | Ferramentas |
+| Area | Tools |
 | --- | --- |
 | Frontend | React, Vite, TypeScript, Tailwind, shadcn/ui |
 | Backend | Node.js, Fastify, JWT, WebSockets |
-| Dados & cloud | Azure Cosmos DB, Azure Blob, Cloudflare |
-| Outros | Java, Discord bots, overlays Twitch |
+| Data & cloud | Azure Cosmos DB, Azure Blob, Cloudflare |
+| Other | Java, Discord bots, Twitch overlays |
 
-### Destaque
+### Featured
 
-**[UniNest](https://github.com/franciscopereira2004/uninest-housing-hub)** — marketplace de alojamento estudantil.
+**[UniNest](https://github.com/franciscopereira2004/uninest-housing-hub)** — student housing marketplace.
 
-Estudantes encontram quartos e apartamentos perto da universidade; senhorios publicam anúncios com moderação. Mensagens em tempo real, favoritos, denúncias e painel de admin.
+Students find rooms and apartments near campus; landlords publish listings with moderation. Real-time messaging, favorites, reports, and an admin panel.
 
 `React` `Fastify` `TypeScript` `Azure`
 
@@ -67,6 +67,6 @@ Estudantes encontram quartos e apartamentos perto da universidade; senhorios pub
 
 <div align="center">
 
-Se quiseres falar de um projeto, uma ideia, ou uma oportunidade — manda mensagem.
+Want to talk about a project, an idea, or an opportunity? Get in touch.
 
 </div>
